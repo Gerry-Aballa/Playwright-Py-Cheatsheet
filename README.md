@@ -1,0 +1,1 @@
+# Curated list of typical Playwright workflows using Python
