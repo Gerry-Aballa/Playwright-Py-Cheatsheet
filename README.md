@@ -1,4 +1,4 @@
-# The only Playwrite Test Automation using Python Cheatsheet you need
+# The only Playwright Test Automation using Python Cheatsheet you need
 
 
 
