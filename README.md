@@ -174,7 +174,7 @@ pytest tests/
 ```
 
 <details>
-  <summary>Run this Playwight Python Test Example</summary>
+  <summary>Run this Playwright Python Test Example</summary>
 
   ### Flow
 
