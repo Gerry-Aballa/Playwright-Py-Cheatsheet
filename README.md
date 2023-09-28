@@ -4,7 +4,7 @@
 
 Playwright is a Python library that provides a high-level API for automating web browsers like Chromium, Firefox, and WebKit. Here's a cheatsheet highlighting the most common opperations in a Playwright Python Test Project.
 
-Have a look at this [Playwright Test Example]() from this repository
+Have a look at this [Playwright Test Example](#run-your-tests) from this repository
 
 - [Installation](#installation)
 - [Project Structure](#project-structure)
@@ -176,6 +176,8 @@ pytest tests/
 <details>
   <summary>Run this Playwight Python Test Example</summary>
 
+  ### Flow
+
   1. Clone this repository
   
   2. Open folder in your preferred Editor or IDE
@@ -191,6 +193,6 @@ pytest tests/
   pytest tests/
   ```
 
-  5. Results will be in terminal
+  5. Results will be displayed in terminal
   
 </details>
