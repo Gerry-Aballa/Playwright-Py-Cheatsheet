@@ -196,3 +196,7 @@ pytest tests/
   5. Results will be displayed in terminal
   
 </details>
+
+## Additional Resources
+
+* [TypeScript Playwright Cheat Sheet](https://ray.run/blog/mastering-playwright-test-automation-your-comprehensive-cheat-sheet)
